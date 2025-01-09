@@ -52,7 +52,7 @@ Use the following command to send a POST request to the application:
 curl --location 'http://localhost:8000/test' \
 --header 'content-type: application/json' \
 --data '{
-	"msg": "testing1"
+	"msg": "testing"
 }'
 
 ```
